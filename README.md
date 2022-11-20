@@ -1,4 +1,4 @@
-# Fire-Detector
+# Files
 
 model was trained on provided dataset
 
@@ -11,3 +11,4 @@ The amount of data provided was not enough to create good generalized model. To 
 
 # Data
 https://www.kaggle.com/datasets/erkhatkalkabay/ds-fire-detection  
+Is is original dataset without any changes. I uploaded it to kaggle to be able to train model there.
