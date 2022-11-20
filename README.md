@@ -8,3 +8,6 @@ model was trained on provided dataset
 
 # Method
 The amount of data provided was not enough to create good generalized model. To solve this problem was used image augmentation method. 
+
+# Data
+https://www.kaggle.com/datasets/erkhatkalkabay/ds-fire-detection  
